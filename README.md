@@ -142,4 +142,3 @@ This Python script takes the data from the `lucky.txt` file, which contains extr
    Counter class from the collections module
    ```
 
-Feel free to copy and paste this text into your markdown file. If you have any specific adjustments or additional information to include, please let me know!
