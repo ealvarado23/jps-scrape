@@ -1,0 +1,6 @@
+Número: 3, Frecuencia: 1
+Número: 845, Frecuencia: 1
+Número: 9, Frecuencia: 1
+Número: 48, Frecuencia: 1
+Número: 97, Frecuencia: 1
+Número: 446, Frecuencia: 1
