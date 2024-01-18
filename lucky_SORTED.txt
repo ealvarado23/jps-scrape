@@ -4,3 +4,9 @@ Número: 9, Frecuencia: 1
 Número: 48, Frecuencia: 1
 Número: 97, Frecuencia: 1
 Número: 446, Frecuencia: 1
+Número: 49, Frecuencia: 1
+Número: 421, Frecuencia: 1
+Número: 75, Frecuencia: 1
+Número: 422, Frecuencia: 1
+Número: 61, Frecuencia: 1
+Número: 230, Frecuencia: 1
